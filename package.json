@@ -1,5 +1,5 @@
 {
-  "name": "books",
+  "name": "comp229-f2021-wk3",
   "version": "0.0.1",
   "private": true,
   "scripts": {
@@ -30,18 +30,6 @@
     "passport-local-mongoose": "^6.1.0",
     "popper.js": "^1.16.1"
   },
-  "description": "demo app for week3",
-  "main": "./server.js",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/theCodeDoctor-AI/COMP229-F2021-Wk3.git"
-  },
-  "author": "Mark Randall",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/theCodeDoctor-AI/COMP229-F2021-Wk3/issues"
-  },
-  "homepage": "https://github.com/theCodeDoctor-AI/COMP229-F2021-Wk3#readme",
   "devDependencies": {
     "@types/connect-flash": "^0.0.37",
     "@types/cors": "^2.8.12",
