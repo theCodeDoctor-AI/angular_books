@@ -41,5 +41,17 @@
     "@types/passport-jwt": "^3.0.6",
     "@types/passport-local": "^1.0.34",
     "@types/passport-local-mongoose": "^6.1.0"
-  }
+  },
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theCodeDoctor-AI/angular_books.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/theCodeDoctor-AI/angular_books/issues"
+  },
+  "homepage": "https://github.com/theCodeDoctor-AI/angular_books#readme",
+  "description": ""
 }
